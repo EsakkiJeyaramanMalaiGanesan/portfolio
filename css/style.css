@@ -1,0 +1,157 @@
+body{
+ 
+  
+
+ }
+
+@font-face{font-family:"digitalItalic";
+src:url('../font/digital-7-italic.ttf') format('truetype');
+font-weight:"normal";
+}
+
+@font-face{font-family:"AvenirNextLTProDemi";
+src:url('../font/AvenirNextLTProDemi.ttf') format('truetype');
+font-weight:"normal";
+}
+
+
+@font-face{font-family:"openSansLightItalic";
+src:url('../font/OpenSans-LightItalic.ttf') format('truetype');
+font-weight:"normal";
+}
+
+@font-face{font-family:"openSansLight";
+src:url('../font/OpenSans-Light.ttf') format('truetype');
+font-weight:"normal";
+}
+
+
+@font-face{font-family:"exo2Light";
+src:url('../font/Exo2-Thin.ttf') format('truetype');
+font-weight:"normal";
+}
+
+.avenir{font-family: 'AvenirNextLTProDemi';}
+
+ .p20{padding: 20px;}
+.pl20{padding-left: 20px;}
+.pl{padding-left: 8px;}
+
+
+.pt{padding-top: 8px;}
+
+
+
+
+ .primaryColor{
+  background-color:  #4db8ff;
+ }
+ .banner{
+  min-height: 100px;
+      margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+        min-width: 90%;
+    width: 90%;
+    max-width: 100%;
+ }
+ .w100Per{width:100%;}
+ .w80Per{width:80%;}
+ .w20Per{width:20%;}
+ .w50Per{width: 50%;}
+ .br50Per{border-radius: 50%;}
+.profileImageHolder{min-height: 120px;    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: relative;
+    }
+    .adjustLeft{left: -28px;}
+.whiteBg{background-color: white;}
+.inlineFlex{display: inline-flex;}
+.border2White{    border: 2px solid white;}
+
+.exo{font-family: 'Exo 2', sans-serif;}
+.opensans{font-family: 'openSansLight';}
+.avenirProDemi{font-family: 'AvenirNextLTProDemi';}
+.openSansLightItalic{font-family: 'openSansLightItalic';}
+.digitalItalic{font-family: 'digitalItalic';}
+.column{display: inline-block;}
+.f30{font-size: 30px;}
+.wh20{width: 20px;
+    height: 20px;}
+    .pl12{    padding-left: 12px;}
+
+   .aboutMe{
+    min-height: 70px;
+    max-height: auto;
+    border-radius: 10px;
+   }
+
+   .bl10{border-left: 10px solid #4db8ff !important;}
+   .lightGreyBorder{border: 1px solid #97999b;}
+   .mt20{margin-top: 20px;}
+   .wh100{
+    width: 70px;
+    height: 100%;
+    }
+    .f30{font-size: 30px;}
+    .makeCenter{text-align: center !important;}
+    .pt25{padding-top: 25px;}
+    .t25{top: 25px;
+    position: relative;}
+    .lightGreyBg{background-color: #eff0f2}
+    .btb10{    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;}
+    .pt10{padding-top: 10px;}
+    .tc-lightgrey{color: #97999b;}
+    .w75Per{width: 75%;}
+    .pt16{padding-top: 16px;}
+
+     .pl10{padding-left: 10px;}
+    
+
+.pl30Per{padding-left: 30%;}.f20{font-size: 20px;}.minh100{min-height: 100px; height: auto;}
+
+
+
+.scorecardbg{
+  height: 70px;
+    width: 70px;
+    border-radius: 50%;
+     
+}
+.scorecardcontent{
+  padding-top: 24px;
+    padding-left: 8px;
+     
+
+}.f14{font-size: 14px;}.hide{display: none;}.f10{font-size: 10px;}
+.f12{font-size: 12px;}
+.w100{width: 100px;}.w200{width: 200px;}
+.w300{width: 300px;}
+.w70{width: 70px;}.mr10{margin-left: 10px;}
+.frt{float: right;}
+.oracleLogo{    width: 150px;
+    height: 40px;}.p1c0{padding:10px;}
+    .f16{font-size: 16px;}
+
+
+
+    .aboutMe .w70{margin-right: 10px; position: relative;padding: 5px;
+    }.pl20{padding-left: 20px;}.somethingMore{}
+    .c100{font-size: 70px !important;margin:0px;}.m0{margin: 0 !important;}.p5{padding: 5px;}
+    .ml10{margin-left: 10px;}
+    .tc-black{color: #1e1e1e;}
+    .c100 span{color: #1e1e1e !important;}
+    .f18{font-size: 18px !important;}
+
+.techExperience .aboutMe{max-width: 280px}
+.techExperience .pie {display:none;}
+.techExperience .aboutMe{min-width: 340px;max-width:340px;}
+.pl16{padding-left: 16px;}
+.borderLR10{border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;}
+
+    .adjustLeft {
+    left: -60px;
+}
