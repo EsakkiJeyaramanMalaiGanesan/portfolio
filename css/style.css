@@ -1,7 +1,6 @@
 body{
  
-  
-
+padding: 10px;
  }
 
 @font-face{font-family:"digitalItalic";
@@ -52,7 +51,7 @@ font-weight:"normal";
   margin-bottom: 10px;
   padding-bottom: 5px;
   min-width: 90%;
-  width: calc(100% - 120px);
+  width: 100%;
   max-width: 100%;
  }
  .w100Per{width:100%;}
@@ -131,8 +130,12 @@ font-weight:"normal";
 .w300{width: 300px;}
 .w70{width: 70px;}.mr10{margin-left: 10px;}
 .frt{float: right;}
-.oracleLogo{    width: 150px;
-    height: 40px;}.p1c0{padding:10px;}
+.oracleLogo{
+    width: 150px;
+    height: 40px;
+    left: -35px;
+    position: relative;
+    }.p1c0{padding:10px;}
     .f16{font-size: 16px;}
 
 
@@ -153,5 +156,12 @@ font-weight:"normal";
     border-bottom-left-radius: 10px;}
 
     .adjustLeft {
-    /* left: -60px; */
+     /* left: -60px; */
 }
+
+.flex{
+display:flex;
+}
+.jus-center{    justify-content: center;}
+.align-items-center {    align-items: center;}
+.ml5{margin-left:5px;}
